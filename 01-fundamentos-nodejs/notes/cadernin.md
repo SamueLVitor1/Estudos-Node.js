@@ -22,9 +22,11 @@ POST /users => Criar um usuário no back-end
 
 ## Salvando usuarios em memoria
 
-Stateful - Stateless
+Stateful = informação/dados que são armazenados em memória 
+Stateless = informação/dados são armazendos em alguma coisa externa, banco de dados, arquivo de texto,etc.
+
 JSON - Javascript Object Notation
 
-Cabeçalhos (Requisição/ resposta) => Metadados
+## Cabeçalhos (Requisição/ resposta) => Metadados
 
 HTTP Status Code 
